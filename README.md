@@ -1,9 +1,3 @@
----
-noteId: "9a02de40ac9111f0944c6352953c3307"
-tags: []
-
----
-
 # ZPL Studio - Proof of Concept
 
 A comprehensive Next.js application for creating, managing, and testing ZPL (Zebra Programming Language) label templates with live preview and printer integration capabilities.
